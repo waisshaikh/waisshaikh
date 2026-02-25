@@ -34,11 +34,5 @@ Full Stack Developer | MERN Stack | 3D Web Enthusiast
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=waisshaikh&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=waisshaikh&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waisshaikh&theme=tokyonight&hide_border=true&layout=compact)
 
