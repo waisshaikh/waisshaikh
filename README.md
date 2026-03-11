@@ -36,7 +36,6 @@ Full Stack Developer | MERN Stack | 3D Web Enthusiast
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=waisshaikh&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=waisshaikh&theme=tokyonight&hide_border=true)
 
