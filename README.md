@@ -46,7 +46,7 @@
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/wasi-shaikh-9b1b1819b/
+- 💼 LinkedIn: https://www.linkedin.com/in/wais-shaikh-26a3a5211/
 - 🌐 Portfolio: https://waisshaikh.com
 - 📧 Email: waisshaikh201@gmail.com
 
