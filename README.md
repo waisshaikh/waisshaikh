@@ -1,6 +1,8 @@
-# Hi 👋 I'm Wais Shaikh
+<h1 align="center">Hi 👋 I'm Wais Shaikh</h1>
 
-Full Stack Developer | MERN Stack | 3D Web Enthusiast
+<h3 align="center">
+🚀 MERN Stack Developer | Building Modern Web Apps
+</h3>
 
 ## 💻 Tech Stack
 
@@ -41,6 +43,12 @@ Full Stack Developer | MERN Stack | 3D Web Enthusiast
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waisshaikh&theme=tokyonight&hide_border=true&layout=compact)
 
+
+## 📫 Connect with me
+
+- 💼 LinkedIn: https://linkedin.com/in/wais-shaikh
+- 🌐 Portfolio: https://wais.dev
+- 📧 Email: wais@example.com
 
 
 
