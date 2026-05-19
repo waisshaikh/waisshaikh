@@ -38,8 +38,7 @@
 
 ## 📊 GitHub Stats
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=waisshaikh&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=waisshaikh&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waisshaikh&theme=tokyonight&hide_border=true&layout=compact)
 
