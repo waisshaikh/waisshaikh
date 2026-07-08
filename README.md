@@ -2,7 +2,7 @@
 
 <h3 align="center">
 🚀 MERN Stack Developer | Building Modern Web Apps
-</h3>a
+</h3>
 
 ## 💻 Tech Stack
 
