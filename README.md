@@ -2,7 +2,7 @@
 
 <h3 align="center">
 🚀 MERN Stack Developer | Building Modern Web Apps
-</h3>
+</h3>a
 
 ## 💻 Tech Stack
 
@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com?user=waisshaikh&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=waisshaikh&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waisshaikh&theme=tokyonight&hide_border=true&layout=compact)
 
